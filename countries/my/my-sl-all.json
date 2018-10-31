@@ -34012,7 +34012,7 @@
         "ISO": "MY-10",
         "ISO_district": "MY-10.7",
         "Latitude": 3.0733,
-        "Longitude":101.5185
+        "Longitude": 101.5185
       }
     },
     {
@@ -38794,7 +38794,7 @@
         "ENGTYPE_2": "District",
         "CC_2": null,
         "HASC_2": "MY.SL.SB",
-        "hc-key": "my-jh-sb",
+        "hc-key": "my-sl-sb",
         "ISO": "MY-10",
         "ISO_district": "MY-10.8"
       }
@@ -40636,7 +40636,7 @@
         "ENGTYPE_2": "District",
         "CC_2": null,
         "HASC_2": "MY.SL.SP",
-        "hc-key": "my-jh-sp",
+        "hc-key": "my-sl-sp",
         "ISO": "MY-10",
         "ISO_district": "MY-10.9"
       }
